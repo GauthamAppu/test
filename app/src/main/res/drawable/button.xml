@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#034823"/> <!-- Use the green color defined in colors.xml -->
+    <corners android:radius="30dp"/>
+    <!-- Optional: for rounded corners -->
+</shape>

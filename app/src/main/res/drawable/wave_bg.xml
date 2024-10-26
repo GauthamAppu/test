@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="300dp"
+    android:viewportWidth="400"
+    android:viewportHeight="300">
+
+    <!-- Inverted curved mountain shape -->
+<path
+android:fillColor="#50C878"
+android:pathData="M0,200 Q200,300 400,200 V0 H0 Z"/> <!-- Increase curve peak height -->
+    </vector>

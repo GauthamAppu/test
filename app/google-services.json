@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048391128168",
+    "project_id": "projecthealify-d2485",
+    "storage_bucket": "projecthealify-d2485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048391128168:android:d26676559dba5c3e4e57dd",
+        "android_client_info": {
+          "package_name": "com.example.projecthealify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbHM0yjYI2OiYCBMBGIvh3WoqRUe6mido"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

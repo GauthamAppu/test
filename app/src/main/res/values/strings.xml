@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjectHealify</string>
+    <string name="about_healify">
+        "Healify is a revolutionary app designed to help users identify medicinal plants through advanced image recognition technology. Our mission is to promote natural healing and empower individuals to utilize the benefits of nature for their health and well-being."
+    </string>
+</resources>
